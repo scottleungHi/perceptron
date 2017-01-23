@@ -1,0 +1,11 @@
+name, 1 if W-B, 1 if vert, 1 if milk, 1 if hair, 1 if mammal
+dog,1,1,1,1,1
+parrot,1,1,-1,-1,0
+spider,-1,-1,-1,1,0
+rabbit,1,1,1,1,1
+turtle,-1,1,-1,-1,0
+lizard,-1,1,-1,-1,0
+octopus,-1,-1,-1,-1,0
+fish,-1,1,-1,-1,0
+whale,1,1,1,1,1
+shark,-1,1,-1,-1,0
